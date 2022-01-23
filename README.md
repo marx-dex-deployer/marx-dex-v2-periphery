@@ -20,3 +20,9 @@ The following assumes the use of `node@>=10`.
 ## Run Tests
 
 `yarn test`
+
+## Run scripts
+
+`truffle exec scripts/approve_weth.js --network evmos`
+`truffle exec scripts/add_liquidity.js --network evmos`
+

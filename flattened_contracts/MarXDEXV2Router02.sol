@@ -314,7 +314,7 @@ library MarXDEXV2Library {
                 hex'ff',
                 factory,
                 keccak256(abi.encodePacked(token0, token1)),
-                hex'e76baa2a25a2626f7114cb720641258777cf1fa5f14fb0b3ab6a1b0098e430b6' // init code hash
+                hex'236595447338c75b512d89a54e3b5160e3a38c8ffe13f0e88c634ca037665806' // init code hash
             ))));
     }
 

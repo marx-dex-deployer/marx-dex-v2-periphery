@@ -406,10 +406,10 @@
   resolved "https://registry.yarnpkg.com/@marx-dex/marx-dex-lib/-/marx-dex-lib-4.0.1-alpha.tgz#999e2cbe9be6e221e39271ca076410715139b75a"
   integrity sha512-SBizeOKBQen9LSODJdF3pQkEixKM+t7S03jOkKFmRzr6tcEGlE74+uYMD+daOFD00oJnd4UqRdv3niQBl0NrCQ==
 
-"@marx-dex/marx-dex-v2-core@1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@marx-dex/marx-dex-v2-core/-/marx-dex-v2-core-1.0.1.tgz#3b2c024a5c5780a66a02944fbd1f4ced736b0fef"
-  integrity sha512-L95ZJwp0QuGDfvDSS6Saxx/XS5wgfbfVDyrvVdUveYzbv7WwmKbCX8f+lju4GGh8mA6PldP7h3q5/l/x+hxv5A==
+"@marx-dex/marx-dex-v2-core@1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@marx-dex/marx-dex-v2-core/-/marx-dex-v2-core-1.0.2.tgz#2dc0b533f3313fdc7a98b69fa131b514d4d963b6"
+  integrity sha512-YNVtzPtVPWj1kHEh7Fapwc5xIhQQOXuBQs4xUTnfsftah6HsSXtBKkQ3jlNGERYag4miGA5Ici2hQ3QPSS1kDg==
   dependencies:
     "@truffle/hdwallet-provider" "^2.0.0"
 
